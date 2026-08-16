@@ -14,6 +14,18 @@ Building practical software tools and solutions that help people and businesses 
   Validate credit/debit card numbers using the Luhn Algorithm and detect card type.  
   [Live Demo](https://card-validator-1ae86d.netlify.app/)
 
+- **[Password Generator](https://github.com/EoNs-Automation/password-generator)**  
+  Generate strong, customizable passwords.  
+  [Live Demo](https://password-generator-4515d0.netlify.app/)
+
+- **[Expense Tracker](https://github.com/EoNs-Automation/expense-tracker)**  
+  Track expenses by category and view totals.  
+  [Live Demo](https://expense-tracker-06300d.netlify.app/)
+
+- **[QR Code Generator](https://github.com/EoNs-Automation/qr-code-generator)**  
+  Generate QR codes from text or URLs.  
+  [Live Demo](https://qr-code-generator-6c457e.netlify.app/)
+
 ---
 
 ### About
