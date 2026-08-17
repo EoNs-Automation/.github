@@ -26,6 +26,10 @@ Building practical software tools and solutions that help people and businesses 
   Generate QR codes from text or URLs.  
   [Live Demo](https://qr-code-generator-6c457e.netlify.app/)
 
+- **[Invoice / Quote Generator](https://github.com/EoNs-Automation/invoice-quote-generator)**  
+  Create professional invoices and quotes.  
+  [Live Demo](https://invoice-quote-generator-164.netlify.app/)
+
 ---
 
 ### About
