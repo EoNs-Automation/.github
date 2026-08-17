@@ -30,6 +30,10 @@ Building practical software tools and solutions that help people and businesses 
   Create professional invoices and quotes.  
   [Live Demo](https://invoice-quote-generator-164.netlify.app/)
 
+- **[Unit Converter](https://github.com/EoNs-Automation/unit-converter)**  
+  Convert between units across 10 categories.  
+  [Live Demo](https://unit-converter-c2afb3.netlify.app/)
+
 ---
 
 ### About
