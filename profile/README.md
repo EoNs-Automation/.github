@@ -34,6 +34,10 @@ Building practical software tools and solutions that help people and businesses 
   Convert between units across 10 categories.  
   [Live Demo](https://unit-converter-c2afb3.netlify.app/)
 
+- **[Percentage Calculator](https://github.com/EoNs-Automation/percentage-calculator)**  
+  Solve common percentage problems.  
+  [Live Demo](https://percentage-calculator-b9ba6d.netlify.app/)
+
 ---
 
 ### About
