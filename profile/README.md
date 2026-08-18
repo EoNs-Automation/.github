@@ -38,6 +38,10 @@ Building practical software tools and solutions that help people and businesses 
   Solve common percentage problems.  
   [Live Demo](https://percentage-calculator-b9ba6d.netlify.app/)
 
+- **[CSV / Excel Cleaner](https://github.com/EoNs-Automation/csv-excel-cleaner)**  
+  Clean messy spreadsheet data by removing duplicates, empty rows, and extra spaces.  
+  [Live Demo](https://csv-excel-cleaner-4c5911.netlify.app/)
+
 ---
 
 ### About
