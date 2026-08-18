@@ -51,3 +51,14 @@ Building practical software tools and solutions that help people and businesses 
 ### About
 
 EoNs Automation focuses on creating useful, real-world tools with clean design and practical functionality.
+
+---
+
+### Looking for custom work?
+
+EoNs Automation is available for custom software tools, automation scripts, and small coding projects.
+
+If you have an idea or need help with a workflow, feel free to reach out.  
+I'm happy to review requests and discuss whether I can help.
+
+**Contact:** wessley@eonsautomation.dev
