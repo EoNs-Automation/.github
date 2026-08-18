@@ -42,6 +42,10 @@ Building practical software tools and solutions that help people and businesses 
   Clean messy spreadsheet data by removing duplicates, empty rows, and extra spaces.  
   [Live Demo](https://csv-excel-cleaner-4c5911.netlify.app/)
 
+- **[Web Scraper](https://github.com/EoNs-Automation/web-scraper)**  
+  Extract text, links, headings, and images from public web pages.  
+  [Live Demo](https://web-scraper-4c7636.netlify.app/)
+
 ---
 
 ### About
