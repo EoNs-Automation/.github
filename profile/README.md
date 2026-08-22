@@ -1,68 +1,84 @@
 # EoNs Automation
-
 Building practical software tools and solutions that help people and businesses work more efficiently.
+
+**Website:** [eonsautomation.dev](https://eonsautomation.dev)  
+**Tools Hub:** [tool-hub-f5b755.netlify.app](https://tool-hub-f5b755.netlify.app/)  
+**Fiverr:** [Custom Python scripts](https://www.fiverr.com/s/emRQYL4)  
+**Contact:** wessley@eonsautomation.dev
+
+---
+
+### Start here
+Use the tools together in one place:
+
+**[EoNs Tools Hub](https://tool-hub-f5b755.netlify.app/)**
+
+Each tool also has its own live demo below. No login required on the single-tool pages.
 
 ---
 
 ### Current Projects
 
-- **[Vigenère Cipher](https://github.com/EoNs-Automation/vigenere-cipher)**  
-  Encrypt and decrypt messages using the Vigenère cipher.  
+- **[Business Writer](https://github.com/EoNs-Automation/business-writer)**
+  Write review replies, late payment reminders, and everyday business messages.
+  [Live Demo](https://eons-business-writer-3d3fda.netlify.app/)
+
+- **[Vigenère Cipher](https://github.com/EoNs-Automation/vigenere-cipher)**
+  Encrypt and decrypt messages using the Vigenère cipher.
   [Live Demo](https://vigenere-cipher-66666g.netlify.app/)
 
-- **[Card Validator](https://github.com/EoNs-Automation/card-validator)**  
-  Validate credit/debit card numbers using the Luhn Algorithm and detect card type.  
+- **[Card Validator](https://github.com/EoNs-Automation/card-validator)**
+  Validate credit/debit card numbers using the Luhn Algorithm and detect card type.
   [Live Demo](https://card-validator-1ae86d.netlify.app/)
 
-- **[Password Generator](https://github.com/EoNs-Automation/password-generator)**  
-  Generate strong, customizable passwords.  
+- **[Password Generator](https://github.com/EoNs-Automation/password-generator)**
+  Generate strong, customizable passwords.
   [Live Demo](https://password-generator-4515d0.netlify.app/)
 
-- **[Expense Tracker](https://github.com/EoNs-Automation/expense-tracker)**  
-  Track expenses by category and view totals.  
+- **[Expense Tracker](https://github.com/EoNs-Automation/expense-tracker)**
+  Track expenses by category and view totals.
   [Live Demo](https://expense-tracker-06300d.netlify.app/)
 
-- **[QR Code Generator](https://github.com/EoNs-Automation/qr-code-generator)**  
-  Generate QR codes from text or URLs.  
+- **[QR Code Generator](https://github.com/EoNs-Automation/qr-code-generator)**
+  Generate QR codes from text or URLs.
   [Live Demo](https://qr-code-generator-6c457e.netlify.app/)
 
-- **[Invoice / Quote Generator](https://github.com/EoNs-Automation/invoice-quote-generator)**  
-  Create professional invoices and quotes.  
+- **[Invoice / Quote Generator](https://github.com/EoNs-Automation/invoice-quote-generator)**
+  Create professional invoices and quotes.
   [Live Demo](https://invoice-quote-generator-164.netlify.app/)
 
-- **[Unit Converter](https://github.com/EoNs-Automation/unit-converter)**  
-  Convert between units across 10 categories.  
+- **[Unit Converter](https://github.com/EoNs-Automation/unit-converter)**
+  Convert between units across 10 categories.
   [Live Demo](https://unit-converter-c2afb3.netlify.app/)
 
-- **[Percentage Calculator](https://github.com/EoNs-Automation/percentage-calculator)**  
-  Solve common percentage problems.  
+- **[Percentage Calculator](https://github.com/EoNs-Automation/percentage-calculator)**
+  Solve common percentage problems.
   [Live Demo](https://percentage-calculator-b9ba6d.netlify.app/)
 
-- **[CSV / Excel Cleaner](https://github.com/EoNs-Automation/csv-excel-cleaner)**  
-  Clean messy spreadsheet data by removing duplicates, empty rows, and extra spaces.  
+- **[CSV / Excel Cleaner](https://github.com/EoNs-Automation/csv-excel-cleaner)**
+  Clean messy spreadsheet data by removing duplicates, empty rows, and extra spaces.
   [Live Demo](https://csv-excel-cleaner-4c5911.netlify.app/)
 
-- **[Web Scraper](https://github.com/EoNs-Automation/web-scraper)**  
-  Extract text, links, headings, and images from public web pages.  
+- **[Web Scraper](https://github.com/EoNs-Automation/web-scraper)**
+  Extract text, links, headings, and images from public web pages.
   [Live Demo](https://web-scraper-4c7636.netlify.app/)
 
-- **[Job Estimate Worksheet](https://github.com/EoNs-Automation/job-estimate-worksheet)**  
-  Create job estimates with labor, materials, markup, and tax.  
+- **[Job Estimate Worksheet](https://github.com/EoNs-Automation/job-estimate-worksheet)**
+  Create job estimates with labor, materials, markup, and tax.
   [Live Demo](https://job-estimate-worksheet-fcd36a.netlify.app/)
 
 ---
 
 ### About
-
 EoNs Automation focuses on creating useful, real-world tools with clean design and practical functionality.
 
 ---
 
 ### Looking for custom work?
-
 EoNs Automation is available for custom software tools, automation scripts, and small coding projects.
 
-If you have an idea or need help with a workflow, feel free to reach out.  
+If you have an idea or need help with a workflow, feel free to reach out.
+
 I'm happy to review requests and discuss whether I can help.
 
 **Contact:** wessley@eonsautomation.dev
