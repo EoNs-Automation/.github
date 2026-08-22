@@ -46,6 +46,10 @@ Building practical software tools and solutions that help people and businesses 
   Extract text, links, headings, and images from public web pages.  
   [Live Demo](https://web-scraper-4c7636.netlify.app/)
 
+- **[Job Estimate Worksheet](https://github.com/EoNs-Automation/job-estimate-worksheet)**  
+  Create job estimates with labor, materials, markup, and tax.  
+  [Live Demo](https://job-estimate-worksheet-fcd36a.netlify.app/)
+
 ---
 
 ### About
